@@ -1,3 +1,4 @@
-# STDC
-This is STDC semantic segmentation
+# CRNet
+
+This is CRNet semantic segmentation
 
